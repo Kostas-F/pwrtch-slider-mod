@@ -42,15 +42,9 @@ I would print a couple at a time since it basically adds no time to the print.
 
 Take off the back and battery. You can leave SIM cards and microSD cards installed if you want. 
 
-
-
-
-
-
-
 ### Step 2
 
-<img align="right" src="./images/03.jpg" title="2. screws">
+<img align="left" src="./images/03.jpg" title="2. screws">
 
 Unscrew the 6 back screws with the PH00 driver. Use a magnet or tray to keep track of them. They are all the same length so no need to worry about mixing them up. 
 
@@ -62,13 +56,14 @@ Pry off the front bezel. Use a guitar pick, sputzer or your nail to pry of a cor
 
 ### Step 4
 
-<img align="right" src="./images/05.jpg" title="4. diss end">
+<img align="left" src="./images/05.jpg" title="4. diss end">
 
 Get the front bezel and button assembly off the phone. Be carefull not to scratch or nick the screen. Be aware that it might want to pull off along with the bezel, dont tear the ribbon cable underneath. Take off the buttons and keep them in the tray. 
 
 ### Step 5
 
-Try the fit of the button. If something snags file it. If not try to assemble enough to test the fit. I would at least try to file the channel at the top of the button since I found it to interfere just a bit. 
+Try the fit of the button. If something snags file it. If not try to assemble enough to test the fit. I would at least try to file the channel at the top of the button since I found it to interfere just a bit.
+
 <img align="left" src="./images/07-button_top.jpg" title="5.1. button top">
 <img align="right" src="./images/09-button_top2.jpg" title="5.2. button after filing">
 
