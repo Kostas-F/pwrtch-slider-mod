@@ -19,9 +19,7 @@ The dissasebmly process is very simple and
 
 <p align=center>
 ##### BOM
-
 * The button (see Printing Notes)
-
 ##### Tools
 *  PH00 screwdriver to take the phone apart
 *  A plastic spudger or guitar pick to pry open the plastic parts
