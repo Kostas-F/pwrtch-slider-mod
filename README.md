@@ -26,7 +26,7 @@ The dissasebmly process is simple, nothing really to worry about. Only places of
 *  A small file to bring the button down to tolerances if things are too tight 
 
 ### Step 0
-<img align="right" src="./images/06-button_bot.jpg" title="0. printed button">
+<img src="./images/06-button_bot.jpg" title="0. printed button">
 
 Print or have the button printed. If you are not familiar with 3d printing just providing the stl file to a 3d printing service should  suffice (the part is fairly small so you might want to consider having something else printed along with it to make it worth it. A lithograph of a photo might be a nice present)
 
@@ -38,25 +38,25 @@ I would print a couple at a time since it basically adds no time to the print.
 
 ### Step 1 
 
-<img align="right" src="./images/02.jpg" title="1. back and battery">
+<img src="./images/02.jpg" title="1. back and battery">
 
 Take off the back and battery. You can leave SIM cards and microSD cards installed if you want. 
-
+<>
 ### Step 2
 
-<img align="left" src="./images/03.jpg" title="2. screws">
+<img src="./images/03.jpg" title="2. screws">
 
 Unscrew the 6 back screws with the PH00 driver. Use a magnet or tray to keep track of them. They are all the same length so no need to worry about mixing them up. 
 
 ### Step 3
 
-<img align="right" src="./images/04.jpg" title="3. front bezel">
+<img src="./images/04.jpg" title="3. front bezel">
 
 Pry off the front bezel. Use a guitar pick, sputzer or your nail to pry of a corner. Then keep that corner up going around the phone and getting the rest of the clips off. Don't use a flathead screwdriver or a metal tool if you don't want to risk scratching the soft plastic around the phone.
 
 ### Step 4
 
-<img align="left" src="./images/05.jpg" title="4. diss end">
+<img src="./images/05.jpg" title="4. diss end">
 
 Get the front bezel and button assembly off the phone. Be carefull not to scratch or nick the screen. Be aware that it might want to pull off along with the bezel, dont tear the ribbon cable underneath. Take off the buttons and keep them in the tray. 
 
@@ -64,15 +64,15 @@ Get the front bezel and button assembly off the phone. Be carefull not to scratc
 
 Try the fit of the button. If something snags file it. If not try to assemble enough to test the fit. I would at least try to file the channel at the top of the button since I found it to interfere just a bit.
 
-<img align="left" src="./images/07-button_top.jpg" title="5.1. button top">
-<img align="right" src="./images/09-button_top2.jpg" title="5.2. button after filing">
+<img src="./images/07-button_top.jpg" title="5.1. button top">
+<img src="./images/09-button_top2.jpg" title="5.2. button after filing">
 
 ### Step 6
 
 Final assembly. Keep things in place as you snap the clips together and test that everything moves freely as you screw everything in. 
 
-<img align="left" src="./images/10-proccess2.jpg" title="6.1. stay put ">
-<img align="right" src="./images/12-done.jpg" title="5.2. done">
+<img src="./images/10-proccess2.jpg" title="6.1. stay put ">
+<img src="./images/12-done.jpg" title="5.2. done">
 
 ## CAUTION
 
