@@ -5,7 +5,7 @@
   <img src="./images/11-final.jpg" title="Modded phone">
 </p>
 
-## :memo: Summary :memo:
+## :memo: Summary 
 
 <img align="right" src="./images/00-stock.jpg" title="Stock phone">
 
@@ -19,10 +19,10 @@ Considering the fact that the SOS button _does not_ function if the phone is loc
 
 The dissasebmly process is simple, nothing really to worry about. Only places of concern are not scratching up the plastic when prying the case open, not pulling too much on the screen (and tearing up the ribbon cable) and keeping everthing in place when closing everything up.
 
-##### BOM :nut_and_bolt:
+##### :nut_and_bolt: BOM 
 * The button 
 
-##### Tools :wrench:
+##### :wrench: Tools 
 *  PH00 screwdriver to take the phone apart
 *  A plastic spudger or guitar pick to pry open the plastic parts
 *  A small file to bring the button down to tolerances if things are too tight 
