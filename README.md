@@ -15,9 +15,9 @@ Considering the fact that the SOS button does not function if the phone is locke
 
 #### BOM
 
-You only really need to print/ have the button (pwrtech_button.stl ) printed. No support is needed.
+* The button (see Printing Notes)
 
 #### Tools
-You only need a PH00 screwdriver to take the phone apart (see Dissassembly). 
+*  PH00 screwdriver to take the phone apart (see Dissassembly). 
 
 
