@@ -5,7 +5,7 @@
   <img src="./images/11-final.jpg" title="Modded phone">
 </p>
 
-## Summary
+## :memo: Summary :memo:
 
 <img align="right" src="./images/00-stock.jpg" title="Stock phone">
 
@@ -15,14 +15,14 @@ One interesting feature is the use of a locking slide button. It gets rid of the
 
 Considering the fact that the SOS button _does not_ function if the phone is locked and accidental presses of buttons (or the SOS button itself) is an issue when the phone is in a pocket I thought it neccessary to design an easier to operate slider button.
 
-## Dissasembly and Installation
+## Dissasembly and Installation 
 
 The dissasebmly process is simple, nothing really to worry about. Only places of concern are not scratching up the plastic when prying the case open, not pulling too much on the screen (and tearing up the ribbon cable) and keeping everthing in place when closing everything up.
 
-##### BOM
+##### BOM :nut_and_bolt:
 * The button 
 
-##### Tools
+##### Tools :wrench:
 *  PH00 screwdriver to take the phone apart
 *  A plastic spudger or guitar pick to pry open the plastic parts
 *  A small file to bring the button down to tolerances if things are too tight 
@@ -76,6 +76,6 @@ Try the fit of the button. If something snags file it. If not try to assemble en
 
 Final assembly. Keep things in place as you snap the clips together and test that everything moves freely as you screw everything in. 
 
-## CAUTION
+## :warning: CAUTION :warning:
 
 Check thoroughly that the lock unlock function works and doesn't snag. Check applying pressure from various angles as you unlick the phone. Remember that the person using this device might need to unlock it while in distress. If you don't feel it works well enough either try again or raise an issue to inform and have me or others work on it.
