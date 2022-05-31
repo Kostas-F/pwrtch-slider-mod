@@ -42,6 +42,12 @@ I would print a couple at a time since it basically adds no time to the print.
 
 Take off the back and battery. You can leave SIM cards and microSD cards installed if you want. 
 
+
+
+
+
+
+
 ### Step 2
 
 <img align="right" src="./images/03.jpg" title="2. screws">
