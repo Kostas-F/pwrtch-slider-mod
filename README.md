@@ -3,7 +3,7 @@
 
 <img align= center src="./images/11-final.jpg" title="Modded phone">
 
-## Project Summary
+## Summary
 
 <img align="right" src="./images/00-stock.jpg" title="Stock phone">
 
