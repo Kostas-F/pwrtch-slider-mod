@@ -13,12 +13,18 @@ One interesting feature is the use of a locking slide button. It gets rid of the
 
 Considering the fact that the SOS button _does not_ function if the phone is locked and accidental presses of buttons (or the SOS button itself) is an issue when the phone is in a pocket I thought it neccessary to design an easier to operate slider button.
 
+### Dissasembly and Installation
+
+The dissasebmly process is very simple and 
+
+<p align=center>
 ##### BOM
 
 * The button (see Printing Notes)
 
 ##### Tools
-*  PH00 screwdriver to take the phone apart (see Dissassembly). 
+*  PH00 screwdriver to take the phone apart
+*  A plastic spudger or guitar pick to pry open the plastic parts
 *  A small file to bring the button down to tolerances if things are too tight 
-
+</p>
 
