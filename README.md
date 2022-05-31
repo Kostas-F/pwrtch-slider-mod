@@ -65,14 +65,14 @@ Get the front bezel and button assembly off the phone. Be carefull not to scratc
 Try the fit of the button. If something snags file it. If not try to assemble enough to test the fit. I would at least try to file the channel at the top of the button since I found it to interfere just a bit.
 
 <img src="./images/07-button_top.jpg" title="5.1. button top">
-<img src="./images/09-button_top2.jpg" title="5.2. button after filing">
+<img align ="right" src="./images/09-button_top2.jpg" title="5.2. button after filing">
 
 ### Step 6
 
 Final assembly. Keep things in place as you snap the clips together and test that everything moves freely as you screw everything in. 
 
 <img src="./images/10-proccess2.jpg" title="6.1. stay put ">
-<img src="./images/12-done.jpg" title="5.2. done">
+<img align ="right" src="./images/12-done.jpg" title="5.2. done">
 
 ## CAUTION
 
