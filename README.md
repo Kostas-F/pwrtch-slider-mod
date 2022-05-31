@@ -1,7 +1,9 @@
 # Power button mod - PowerTech Sentry Eco
 > A physical accessibility modification to the PowerTech Sentry Eco feature phone aimed at the elderly.
 
-<img align= center src="./images/11-final.jpg" title="Modded phone">
+<p align="center">
+  <img src="./images/11-final.jpg" title="Modded phone">
+</p>
 
 ## Summary
 
